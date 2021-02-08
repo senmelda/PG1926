@@ -1,4 +1,4 @@
 # Selam PG1926 
-//Pyton , Html/Css , Php Problem setleri çözümleri buradadır :)
+// Pyton , Html/Css , Php Problem setleri çözümleri buradadır :)
 // UZAKTAN EĞİTİM PROJESİ ADLI KLASÖRDE GRUP ARKADAŞIMLA BERABER YAPMIŞ OLDUĞUM PROJEMİZ YER ALMAKTADIR. BİLGİLENDİRME AMAÇLI KISA BİR VİDEO ÇEKTİK. VİDEONUN LİNKİ AŞAĞIDADIR. İZLEDİĞİNİZ İÇİN TEŞEKKÜR EDERİZ. :)
 
